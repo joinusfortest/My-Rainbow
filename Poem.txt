@@ -1,4 +1,6 @@
 Red
 green
 yellow
+pink
+blue
 are the rainbow colors
