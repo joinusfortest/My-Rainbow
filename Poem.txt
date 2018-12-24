@@ -1,0 +1,4 @@
+Red
+green
+yellow
+are the rainbow colors
